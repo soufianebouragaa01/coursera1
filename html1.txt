@@ -1,0 +1,13 @@
+La mise en œuvre utilise-t-elle des styles CSS en ligne (non autorisé) ou fait-elle référence à un fichier CSS externe ?
+
+La barre de navigation par défaut est-elle implémentée de telle sorte qu'elle défile avec la page, c'est-à-dire qu'elle n'est pas statiquement attachée au haut ou au bas de l'écran ?
+
+La marque "Food, LLC" est-elle correctement alignée à gauche de la barre de navigation et utilise-t-elle la classe navbar-brand ?
+
+Le bouton du menu déroulant n'est-il visible que lorsque le navigateur est suffisamment étroit pour être en mode mobile ?
+
+Le fait de cliquer sur le bouton du menu déroulant fait-il glisser le menu déroulant vers le bas ? Prend-il toute la largeur du navigateur (moins quelques marges) ? Le libellé de chaque élément du menu (par exemple, "Poulet") est-il centré à l'aide d'une classe Bootstrap ?
+
+Le titre de la page, "Notre menu", est-il centré sur l'écran à l'aide de la classe Bootstrap ?
+
+La section à cellule unique (ou les sections multiples selon la partie facultative du devoir) utilise-t-elle le système de grille Bootstrap et la section est-elle suffisamment haute pour obliger l'internaute à faire défiler la page s'il veut atteindre le bas de celle-ci ?
